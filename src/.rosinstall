@@ -1,0 +1,16 @@
+- git:
+    local-name: metrics_refbox_client
+    uri: https://github.com/HEART-MET/metrics_refbox_client.git
+    version: master
+- git:
+    local-name: metrics_refbox_msgs
+    uri: https://github.com/HEART-MET/metrics_refbox_msgs.git
+    version: master
+- git:
+    local-name: rosbag_recorder
+    uri: https://github.com/HEART-MET/rosbag_recorder.git
+    version: master
+
+
+
+
