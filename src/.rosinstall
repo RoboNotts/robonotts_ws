@@ -12,8 +12,6 @@
     version: master
 - git: 
     local-name: robonotts_ros
-    uri: https://github.com/RoboNotts/robonotts_ros.got
+    uri: https://github.com/RoboNotts/robonotts_ros.git
     version: devel-noetic
-
-
 
