@@ -1,0 +1,8 @@
+prefix=/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/devel
+
+Name: rosyolo
+Description: Description of rosyolo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/Command.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/Confirm.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/ObjectDetectionResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/PersonDetectionResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/HumanRecognitionResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/ActivityRecognitionResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/GestureRecognitionResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/ClutteredPickResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/HandoverObjectResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/ReceiveObjectResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/AssessActivityStateResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/ItemDeliveryResult.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/BoundingBox2D.msg;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg/BoundingBox3D.msg"
+services_str = ""
+pkg_name = "metrics_refbox_msgs"
+dependencies_str = "geometry_msgs;std_msgs;sensor_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "metrics_refbox_msgs;/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/src/metrics_refbox_msgs/msg;geometry_msgs;/opt/ros/noetic/share/geometry_msgs/cmake/../msg;std_msgs;/opt/ros/noetic/share/std_msgs/cmake/../msg;sensor_msgs;/opt/ros/noetic/share/sensor_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python3"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"
