@@ -1,7 +1,0 @@
-set(metrics_refbox_client_SETUP_PY_SETUP_MODULE "distutils.core")
-set(metrics_refbox_client_SETUP_PY_VERSION "0.1.0")
-set(metrics_refbox_client_SETUP_PY_SCRIPTS "")
-set(metrics_refbox_client_SETUP_PY_PACKAGES "metrics_refbox_client;metrics_benchmark_mockup")
-set(metrics_refbox_client_SETUP_PY_PACKAGE_DIRS "src/metrics_refbox_client;src/metrics_benchmark_mockup")
-set(metrics_refbox_client_SETUP_PY_MODULES "")
-set(metrics_refbox_client_SETUP_PY_MODULE_DIRS "")

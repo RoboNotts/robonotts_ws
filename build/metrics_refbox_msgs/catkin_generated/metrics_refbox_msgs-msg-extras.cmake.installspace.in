@@ -1,2 +1,0 @@
-set(metrics_refbox_msgs_MESSAGE_FILES "msg/Command.msg;msg/Confirm.msg;msg/ObjectDetectionResult.msg;msg/PersonDetectionResult.msg;msg/HumanRecognitionResult.msg;msg/ActivityRecognitionResult.msg;msg/GestureRecognitionResult.msg;msg/ClutteredPickResult.msg;msg/HandoverObjectResult.msg;msg/ReceiveObjectResult.msg;msg/AssessActivityStateResult.msg;msg/ItemDeliveryResult.msg;msg/BoundingBox2D.msg;msg/BoundingBox3D.msg")
-set(metrics_refbox_msgs_SERVICE_FILES "")

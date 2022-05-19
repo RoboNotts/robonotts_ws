@@ -1,2 +1,0 @@
-beginner_tutorials:metrics_refbox_client:metrics_refbox_msgs:rosbag_recorder:rosyolo:usb_cam
--DCATKIN_DEVEL_PREFIX=/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/devel -DCMAKE_INSTALL_PREFIX=/home/majonez/Documents/RoboNotts/ros-tutorial/workSpace/install -G Unix Makefiles

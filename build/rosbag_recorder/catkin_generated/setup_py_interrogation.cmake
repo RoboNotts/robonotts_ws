@@ -1,7 +1,0 @@
-set(rosbag_recorder_SETUP_PY_SETUP_MODULE "distutils.core")
-set(rosbag_recorder_SETUP_PY_VERSION "0.1.0")
-set(rosbag_recorder_SETUP_PY_SCRIPTS "")
-set(rosbag_recorder_SETUP_PY_PACKAGES "rosbag_recorder")
-set(rosbag_recorder_SETUP_PY_PACKAGE_DIRS "ros/src/rosbag_recorder")
-set(rosbag_recorder_SETUP_PY_MODULES "")
-set(rosbag_recorder_SETUP_PY_MODULE_DIRS "")
