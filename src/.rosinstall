@@ -11,9 +11,9 @@
     uri: https://github.com/HEART-MET/rosbag_recorder.git
     version: master
 - git: 
-    local-name: robonotts_object_detection
-    uri: https://github.com/RoboNotts/robonotts_object_detection.got
-    version: master
+    local-name: robonotts_ros
+    uri: https://github.com/RoboNotts/robonotts_ros.got
+    version: devel-noetic
 
 
 
