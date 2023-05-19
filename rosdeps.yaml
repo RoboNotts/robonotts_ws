@@ -1,0 +1,8 @@
+python-pytorch-pip:
+    arch:
+        pip:
+            packages: [torch, torchvision]
+python-linnaeus:
+    ubuntu:
+        pip:
+            packages: ["https://github.com/RoboNotts/Linnaeus/releases/download/0.1.0/linnaeus_cli-0.1.0-py3-none-any.whl", "https://github.com/RoboNotts/Linnaeus/releases/download/0.1.0/linnaeus_core-0.1.0-py3-none-any.whl", "https://github.com/RoboNotts/Linnaeus/releases/download/0.1.0/linnaeus_train-0.1.0-py3-none-any.whl"]

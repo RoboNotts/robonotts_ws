@@ -11,7 +11,13 @@
     uri: https://github.com/HEART-MET/rosbag_recorder.git
     version: master
 - git: 
-    local-name: robonotts_ros
-    uri: https://github.com/RoboNotts/robonotts_ros.git
-    version: devel-noetic
-
+    local-name: robonotts_drake
+    uri: https://github.com/RoboNotts/Drake.git
+    version: yolo
+- git:
+    local-name: robonotts_bocelli
+    uri: https://github.com/RoboNotts/Bocelli.git
+    version: main
+- git:
+    local-name: ros_kortex
+    uri: https://github.com/Kinovarobotics/ros_kortex.git
