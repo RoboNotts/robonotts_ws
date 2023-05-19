@@ -4,3 +4,4 @@ build/
 .catkin_tools
 src/
 !src/.rosinstall
+.vscode/
