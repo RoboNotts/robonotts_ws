@@ -5,3 +5,5 @@ build/
 src/
 !src/.rosinstall
 .vscode/
+*.pth
+*.pt

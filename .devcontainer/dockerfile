@@ -7,7 +7,7 @@ SHELL ["/bin/bash", "-c"]
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends python3 python3-pip git \
-    && pip install -U wstool
+    && pip install -U wstool catkin_tools
 RUN groupadd --gid $USER_GID $USERNAME \
     && useradd --uid $USER_UID --gid $USER_GID -ms "/bin/bash" $USERNAME \
     && apt-get install -y --no-install-recommends sudo \
