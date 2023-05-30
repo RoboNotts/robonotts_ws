@@ -6,6 +6,3 @@
     local-name: robonotts_bocelli
     uri: https://github.com/RoboNotts/Bocelli.git
     version: GPTHRI
-- git:
-    local-name: ros_kortex
-    uri: https://github.com/Kinovarobotics/ros_kortex.git
