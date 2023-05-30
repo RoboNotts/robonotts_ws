@@ -1,4 +1,4 @@
 #!/bin/bash
 source ~/.bashrc
-echo "Initialising Catkin Make"
+echo "Sourcing Catkin Workspace"
 source ./devel/setup.bash
